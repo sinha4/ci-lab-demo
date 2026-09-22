@@ -1,0 +1,12 @@
+{
+  "name": "ci-lab-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/sum.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
